@@ -61,3 +61,9 @@ Here are some examples of student projects from the Spring 2021 semester of IEM 
   - [New Mexico](https://github.com/nathan-whitehead/New-Mexico-Redistricting-Plan)
   - [Kansas](https://github.com/William-Jackson-Ricky/Kansas-Redistricting-for-Dr.-Buchanan)
   
+Here are some examples of student projects from the Spring 2022 semester of IEM 4013:
+  - [Nebraska](https://github.com/KeeganJC/Nebraska)
+  - [Arkansas](https://github.com/logandavis2518/IEM4013_2020RedistrictingProject)
+  - [Kansas](https://github.com/hopebrittanyy/Kansas-Redistricing-OR-4013-Project-)
+  - [Alabama](https://github.com/blrodgers26/IEM-4013-Final-Project)
+  - [West Virginia](https://github.com/CGroenteman/OperationsResearchProject-West-Virginia-)
