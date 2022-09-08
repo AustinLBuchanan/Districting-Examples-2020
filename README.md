@@ -7,7 +7,7 @@ The MIP models are summarized in [Two_districting_models.pdf](https://github.com
 # The Data
 This data was obtained from the Redistricting Data Hub, and processed by Daryl DeFord to create the graphs (.json files). If you would like graphs for other states besides Oklahoma, please send me an email. The graphs are read using the GerryChain package. It can sometimes be difficult to install GerryChain. Here is a [tutorial video](https://www.youtube.com/watch?v=_SmR2IkIt38) if you run into problems.
 
-The shapefiles are taken from [Eugene Lykhovyd's page](https://lykhovyd.com/files/public/districting/), which has data for all states (2010 and 2020). You can download all of his files using my [data downloaders](https://github.com/AustinLBuchanan/data-downloader/).
+The shapefiles are taken from [Eugene Lykhovyd's page](https://lykhovyd.com/files/public/districting/), which has data for all states (2010 and 2020). You can download all of his files using my [data downloaders](https://github.com/AustinLBuchanan/data-downloader/blob/main/eugene-data-downloader-2020.ipynb).
 
 # The Codes
 [D1-Min-Deviation.ipynb](https://github.com/AustinLBuchanan/Districting-Examples-2020/blob/main/D1-Min-Deviation.ipynb) shows how to:
