@@ -1,5 +1,5 @@
 # Districting-Examples-2020
-Examples on how to generate political districting plans. All codes are written using Python, with NetworkX used for handling graphs, Gurobi used as MIP solver, and GeoPandas used to draw maps. Used in an undergraduate Operations Research course at Oklahoma State University (IEM 4013). This repo uses 2020 Census data, while an [older repo](https://github.com/AustinLBuchanan/Districting-Examples) used 2010 data.
+Examples on how to generate political districting plans. All codes are written using Python, with NetworkX used for handling graphs, Gurobi used as MIP solver, and GeoPandas used to draw maps. Used in an undergraduate Operations Research course at Oklahoma State University (IEM 4013). This repo uses 2020 Census data, while an [older repo](https://github.com/AustinLBuchanan/Districting-Examples) used 2010 data. Video [lectures are available on YouTube](https://www.youtube.com/playlist?list=PLKQ1MjSFuxKdf3gtPmH5VC93f6FvDrr8R).
 
 # The MIPs
 The MIP models are summarized in [Two_districting_models.pdf](https://github.com/AustinLBuchanan/Districting-Examples-2020/blob/main/Two_districting_models.pdf).
